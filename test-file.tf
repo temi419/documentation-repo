@@ -2,7 +2,7 @@ terraform {
   required_providers {
     aws = {
       source  = "hashicorp/aws"
-      version = "2.50.0"  # this is an older version of the AWS provider
+      version = "2.70.4"  # this is an older version of the AWS provider
     }
   }
 }
